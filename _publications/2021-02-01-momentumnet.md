@@ -1,4 +1,5 @@
 ---
+authors: 'Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré'
 title: "Momentum Residual Neural Networks"
 collection: publications
 permalink: /publication/momentum_residual_neural_networks
