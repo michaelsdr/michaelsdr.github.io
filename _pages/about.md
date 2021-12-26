@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Ph. D. student at ENS Paris working with Gabriel Peyré and Mathieu Blondel on building and studying new deep learning models.
 
-
-A data-driven personal website
+Research interests
 ---
