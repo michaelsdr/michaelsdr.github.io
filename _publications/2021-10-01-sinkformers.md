@@ -7,4 +7,4 @@ venue: 'ArXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2110.11773'
 ---
 
-[Paper](https://arxiv.org/abs/2110.11773) and [GitHub](https://github.com/michaelsdr/sinkformers)
+Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré. [Paper](https://arxiv.org/abs/2110.11773) and [GitHub](https://github.com/michaelsdr/sinkformers)
