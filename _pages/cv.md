@@ -11,6 +11,6 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Computer Science, Ecole Polytechnique (Cursus Ingénieur), 2019
-* M.S. in mathematics, vision and machine learning (MVA), ENS Paris-Saclay, 2020
-* M.S. in mathematics of modeling, Sorbonne Université, 2020
+* B.S. in Mathematics, Ecole Polytechnique (Cursus Ingénieur), 2019
+* M.S. in Mathematics, Vision and Machine Learning (MVA), ENS Paris-Saclay, 2020
+* M.S. in Mathematics of Modeling, Sorbonne Université, 2020
