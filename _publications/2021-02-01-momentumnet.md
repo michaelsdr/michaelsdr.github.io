@@ -2,7 +2,7 @@
 title: "Momentum Residual Neural Networks"
 collection: publications
 permalink: /publication/momentum_residual_neural_networks
-venue: 'ICML 2021'
+venue: 'ICML'
 paperurl: 'https://arxiv.org/abs/2102.07870'
 ---
 
