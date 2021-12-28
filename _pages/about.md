@@ -15,3 +15,8 @@ Research interests
 ---
 
 My main research interests are at the intersection between deep learning, dynamical systems, optimal transport and differentiable learning.
+
+Recent publications
+---
+
+[I'm an inline-style link](https://www.google.com)
