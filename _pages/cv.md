@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Complete [CV](https://michaelsdr.github.io/images/foo-bar-identity.jpg).
+Complete CV [here](https://michaelsdr.github.io/documents/CV.pdf).
 
 Education
 ======
-* B.S. in Mathematics, Ecole Polytechnique (Cursus Ingénieur), 2019
+* PhD in Mathematics and Machile Learning, ENS Paris (Ulm), 2020-
 * M.S. in Mathematics, Vision and Machine Learning (MVA), ENS Paris-Saclay, 2020
 * M.S. in Mathematics of Modeling, Sorbonne Université, 2020
+* B.S. in Mathematics, Ecole Polytechnique (Cursus Ingénieur, X2016), 2019
+
 
 Experience
 ======
