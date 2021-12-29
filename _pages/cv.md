@@ -25,8 +25,8 @@ Experience
 
 * Mathematical examiner for B.S. students at Lycée Henri IV, Paris.  2017 - 2020
 
-* Differentiable layers through compressed dynamics. DMA, Ecole Normale Supérieure, Paris. April 2020 - September 2020
+* Internship - Differentiable layers through compressed dynamics. DMA, Ecole Normale Supérieure, Paris. April 2020 - September 2020
 
-* Mathematical modeling of color vision. Benhia Lab, Colombia University, New York. April 2019 - August 2019
+* Internship - Mathematical modeling of color vision. Benhia Lab, Colombia University, New York. April 2019 - August 2019
 
-* Statistical modeling of DNA sequencing. SOPHiA Genetics, Geneva. June 2018 - September 2018
+* Internship - Statistical modeling of DNA sequencing. SOPHiA Genetics, Geneva. June 2018 - September 2018
