@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Michael Sander and I am a PhD student at ENS Paris working on building and studying new deep learning models. 
+Hello! My name is Michael Sander and I am a PhD student at ENS Paris working with Gabriel Peyré and Mathieu Blondel on building and studying new deep learning models. 
 I graduated from École Polytechnique in 2020 and have a master degree from ENS Paris-Saclay in mathematics, vision and machine learning (MVA), as well as a master degree from Sorbonne Université in mathematics (modeling).  
 
 Research interests
