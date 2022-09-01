@@ -21,7 +21,7 @@ Education
 
 Experience
 ======
-* Teacher in Statistics and Probability theory, Ecole Normale Supérieure, Paris.  2020 –
+* Teacher in Statistics and Probability theory, Ecole Normale Supérieure, Paris.  2020 – 2022
 
 * Mathematical examiner for B.S. students at Lycée Henri IV, Paris.  2017 - 2020
 
