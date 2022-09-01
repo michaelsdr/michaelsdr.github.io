@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Michael Sander and I am a PhD student at ENS Paris working with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/) on building and studying new deep learning models. 
-I graduated from École Polytechnique in 2020 and have a master degree from ENS Paris-Saclay in mathematics, vision and machine learning (MVA), as well as a master degree from Sorbonne Université in mathematics (modeling).  
+I am a PhD student at [Ecole Normale Supérieure](https://www.ens.psl.eu/) (ENS Paris) working with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/) on building and studying new deep learning models. 
+I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 2020 and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics (modeling).  
 
 Research interests
 ---
 
-My main research interests are at the intersection between deep learning, dynamical systems, optimal transport and differentiable learning.
+My main research interests are at the intersection between deep learning, dynamical systems, optimal transport and differentiable learning. I am particularly interested in the neural ODE framework as a tool to design and study new deep architectures, among which ResNets and Transformers. I am also interested in the convergence of the hidden states trajectories of ResNets to the continuous one of Neural ODEs. 
 
 Recent publications
 ---

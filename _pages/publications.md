@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- Michael E. Sander, Pierre Ablin, Gabriel Peyré. *Do Residual Neural Networks discretize Neural Ordinary Differential Equations?* Preprint. [Paper](https://arxiv.org/abs/2205.14612)
 
-{% include base_path %}
+- Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré. *Sinkformers: Transformers with Doubly Stochastic Attention.* AISTATS, 2022. [Paper](https://arxiv.org/abs/2110.11773), [GitHub](https://github.com/michaelsdr/sinkformers)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré. *Momentum Residual Neural Networks.* ICML, 2021. [Paper](https://arxiv.org/abs/2102.07870), [GitHub](https://github.com/michaelsdr/momentumnet), [short presentation](https://www.youtube.com/watch?v=4PQR7ErASNo).
