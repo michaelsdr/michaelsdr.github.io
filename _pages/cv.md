@@ -13,7 +13,7 @@ Complete CV [here](https://michaelsdr.github.io/documents/CV.pdf).
 
 Education
 ======
-* Ph.D. in Mathematics and Machine Learning, ENS Paris (Ulm), 2020-
+* Ph.D. in Mathematics and Machine Learning, ENS Paris (Ulm), 2020 -
 * M.S. in Mathematics, Vision and Machine Learning (MVA), ENS Paris-Saclay, 2020
 * M.S. in Mathematics of Modeling, Sorbonne Université, 2020
 * B.S. in Mathematics, Ecole Polytechnique (Cursus Ingénieur, X2016), 2019
@@ -21,6 +21,8 @@ Education
 
 Experience
 ======
+* Student Researcher, Google Brain, Paris.  2022 – 
+
 * Teacher in Statistics and Probability theory, Ecole Normale Supérieure, Paris.  2020 – 2022
 
 * Mathematical examiner for B.S. students at Lycée Henri IV, Paris.  2017 - 2020
