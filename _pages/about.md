@@ -17,10 +17,12 @@ Research interests
 
 My main research interests are at the intersection between deep learning, dynamical systems, optimal transport and differentiable learning. I am particularly interested in the neural ODE framework as a tool to design and study new deep architectures, among which ResNets and Transformers. I am also interested in the convergence of the hidden states trajectories of ResNets to the continuous one of Neural ODEs. 
 
-Recent publications
+Publications
 ---
 
 - Michael E. Sander, Pierre Ablin, Gabriel Peyré. *Do Residual Neural Networks discretize Neural Ordinary Differential Equations?* NeurIPS, 2022. [Paper](https://arxiv.org/abs/2205.14612), [GitHub](https://github.com/michaelsdr/resnet_nodes)
+
+- Samy Jelassi, Michael E. Sander, Yuanzhi Li. *Vision Transformers provably learn spatial structure.* NeurIPS, 2022. [Paper](https://arxiv.org/abs/2210.09221)
 
 - Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré. *Sinkformers: Transformers with Doubly Stochastic Attention.* AISTATS, 2022. [Paper](https://arxiv.org/abs/2110.11773), [GitHub](https://github.com/michaelsdr/sinkformers), [short presentation](https://slideslive.com/38980517/sinkformers-transformers-with-doubly-stochastic-attention?ref=speaker-17920)
 
