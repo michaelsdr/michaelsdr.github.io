@@ -20,7 +20,7 @@ My main research interests are at the intersection between deep learning, dynami
 Publications
 ---
 
-- Michael E. Sander, Joan Puigcerver, Josip Djolonga, Gabriel Peyré, Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.* Preprint. [Paper](https://arxiv.org/abs/2302.01425)
+- Michael E. Sander, Joan Puigcerver, Josip Djolonga, Gabriel Peyré, Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.* ICML, 2023. [Paper](https://arxiv.org/abs/2302.01425)
 
 - Michael E. Sander, Pierre Ablin, Gabriel Peyré. *Do Residual Neural Networks discretize Neural Ordinary Differential Equations?* NeurIPS, 2022. [Paper](https://arxiv.org/abs/2205.14612), [GitHub](https://github.com/michaelsdr/resnet_nodes)
 
