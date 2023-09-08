@@ -21,7 +21,9 @@ Education
 
 Experience
 ======
-* Student Researcher, Google Brain, Paris.  2022 – 
+* Visiting Student, Tokyo University and RIKEN AIP, Tokyo. May 2023 - August 2023
+
+* Student Researcher, Google Brain, Paris.  Sept. 2022 – March 2023
 
 * Teacher in Statistics and Probability theory, Ecole Normale Supérieure, Paris.  2020 – 2022
 
