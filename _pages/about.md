@@ -21,7 +21,9 @@ My main research interests are at the intersection between deep learning, dynami
 Publications
 ---
 
-- Pierre Marion*, Yu-Han Wu*, Michael E. Sander, Gérard Biau. *Implicit regularization of deep residual networks towards neural ODEs*. [Preprint](https://arxiv.org/abs/2309.01213)
+- Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?* [Preprint](https://arxiv.org/abs/2402.05787)
+
+- Pierre Marion*, Yu-Han Wu*, Michael E. Sander, Gérard Biau. *Implicit regularization of deep residual networks towards neural ODEs*. ICLR, 2024 (Spotlight). [Paper](https://arxiv.org/abs/2309.01213)
 
 - Michael E. Sander, Joan Puigcerver, Josip Djolonga, Gabriel Peyré, Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.* ICML, 2023. [Paper](https://arxiv.org/abs/2302.01425)
 
