@@ -21,7 +21,7 @@ My main research interests are at the intersection between deep learning, dynami
 Publications
 ---
 
-- Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?* [Preprint](https://arxiv.org/abs/2402.05787)
+- Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?*  [Preprint](https://arxiv.org/abs/2402.05787)
 
 - Pierre Marion*, Yu-Han Wu*, Michael E. Sander, Gérard Biau. *Implicit regularization of deep residual networks towards neural ODEs*. ICLR, 2024 (Spotlight). [Paper](https://arxiv.org/abs/2309.01213)
 
