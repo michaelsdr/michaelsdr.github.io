@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) (ENS Paris). I work with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/) on building and studying new deep learning models. 
-I was a Student Researcher at Google DeepMind from September 2022 to March 2023. 
+I was a Student Researcher at [Google DeepMind](https://deepmind.google/) from September 2022 to March 2023. 
 
 I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 2020 and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics (modeling).
 
