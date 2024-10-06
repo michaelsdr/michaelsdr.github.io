@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Complete CV [here](https://michaelsdr.github.io/documents/CV.pdf).
-
 Education
 ======
 * Ph.D. in Mathematics and Machine Learning, ENS Paris (Ulm), 2020 - 2024
