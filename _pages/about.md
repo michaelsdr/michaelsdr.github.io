@@ -7,25 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) (ENS Paris). I work with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/) on building and studying new deep learning models. 
-I was a Student Researcher at [Google DeepMind](https://deepmind.google/) from September 2022 to March 2023. 
+I am a Research Scientist at [Google DeepMind](https://deepmind.google/).
+Before that, I was a PhD student at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) (ENS Paris), with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/). 
 
 I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 2020 and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics (modeling).
-
-Research interests
----
-
-My main research interests are at the intersection between deep learning, dynamical systems, optimal transport and differentiable learning. I am particularly interested in the neural ODE framework as a tool to design and study new deep architectures, among which ResNets and Transformers. I am also interested in the convergence of the hidden states trajectories of ResNets to the continuous one of Neural ODEs. 
 
 Publications
 ---
 
+- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. Preprint.
+
+- Michael E. Sander. *Deeper Learning: Residual Networks, Neural Differential Equations and Transformers, in Theory and Action*. PhD Manuscript.
+
 - Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?*. ICML, 2024  [Paper](https://arxiv.org/abs/2402.05787), [GitHub](https://github.com/michaelsdr/ical) 
 
-
 - Pierre Marion*, Yu-Han Wu*, Michael E. Sander, Gérard Biau. *Implicit regularization of deep residual networks towards neural ODEs*. ICLR, 2024 (Spotlight). [Paper](https://arxiv.org/abs/2309.01213), [GitHub](https://github.com/michaelsdr/implicit-regularization-resnets-nodes)
-
-- Michael E. Sander, Tom Sander, Maxime Sylvestre. *Unveiling the secrets of paintings: deep neural networks trained on high-resolution multispectral images for accurate attribution and authentication.* QCAV, 2023.
 
 - Michael E. Sander, Joan Puigcerver, Josip Djolonga, Gabriel Peyré, Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.* ICML, 2023. [Paper](https://arxiv.org/abs/2302.01425), [GitHub](https://github.com/google-research/google-research/tree/master/sparse_soft_topk)
 
