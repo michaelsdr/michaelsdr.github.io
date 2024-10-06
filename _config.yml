@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michael E. Sander"
   avatar           : profile.png
-  bio              : "Ph.D. candidate in mathematics and deep learning"
+  bio              : 
   location         :  
   twitter          : "intent/follow?screen_name=m_e_sander"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COqAqcMAAAAJ&hl=fr"
-  email            : "michael.sander@ens.fr"
+  email            : "michael.sander@polytechnique.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
