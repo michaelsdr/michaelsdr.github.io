@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a Research Scientist at [Google DeepMind](https://deepmind.google/).
+
 Before that, I was a PhD student at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) (ENS Paris), with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/). 
 
 I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 2020 and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics (modeling).
@@ -17,7 +18,7 @@ Publications
 
 - Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. Preprint.
 
-- Michael E. Sander. *Deeper Learning: Residual Networks, Neural Differential Equations and Transformers, in Theory and Action*. PhD Manuscript.
+- Michael E. Sander. *Deeper Learning: Residual Networks, Neural Differential Equations and Transformers, in Theory and Action*. [PhD Manuscript](https://michaelsdr.github.io/documents/Manuscript.pdf).
 
 - Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?*. ICML, 2024  [Paper](https://arxiv.org/abs/2402.05787), [GitHub](https://github.com/michaelsdr/ical) 
 
