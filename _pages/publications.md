@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. Preprint.
-
+- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. [Preprint](https://arxiv.org/abs/2410.03011).
+  
 - Michael E. Sander. *Deeper Learning: Residual Networks, Neural Differential Equations and Transformers, in Theory and Action*. [PhD Manuscript](https://michaelsdr.github.io/documents/Manuscript.pdf).
 
 - Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?*. ICML, 2024  [Paper](https://arxiv.org/abs/2402.05787), [GitHub](https://github.com/michaelsdr/ical) 
