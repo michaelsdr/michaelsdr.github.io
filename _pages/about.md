@@ -16,7 +16,7 @@ I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 202
 Publications
 ---
 
-- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. Preprint.
+- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. [Preprint](https://arxiv.org/abs/2410.03011).
 
 - Michael E. Sander. *Deeper Learning: Residual Networks, Neural Differential Equations and Transformers, in Theory and Action*. [PhD Manuscript](https://michaelsdr.github.io/documents/Manuscript.pdf).
 
