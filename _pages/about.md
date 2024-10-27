@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "-"
+title: "--"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a Research Scientist at [Google DeepMind](https://deepmind.google/).
 
 Before that, I was a PhD student at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) (ENS Paris), with [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/). 
 
-I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 2020 and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics (modeling).
+I graduated from [École Polytechnique](https://www.polytechnique.edu/en) (X2016) and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics ([Modelling](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-mathematical-modelling)).
 
 Contact: michael (dot) sander (at) polytechnique (dot) org
 
