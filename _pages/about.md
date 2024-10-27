@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "-"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Before that, I was a PhD student at [Ecole Normale Supérieure](https://www.ens.
 
 I graduated from [École Polytechnique](https://www.polytechnique.edu/en) in 2020 and have a master degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) in mathematics, vision and learning ([MVA](https://www.master-mva.com/)), as well as a master degree from Sorbonne Université in mathematics (modeling).
 
-Contact: michael dot sander at polytechnique dot org
+Contact: michael (dot) sander (at) polytechnique (dot) org
 
 
 Publications
