@@ -84,10 +84,10 @@ author:
   avatar           : profile.png
   bio              : 
   location         :  
-  twitter          : "intent/follow?screen_name=m_e_sander"
+  twitter          : "https://x.com/m_e_sander"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=COqAqcMAAAAJ&hl=fr"
-  email            : "michael.sander@polytechnique.org"
+  googlescholar    : "https://scholar.google.com/citations?user=COqAqcMAAAAJ&hl"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michaelsdr"
+  github           : #"michaelsdr"
   google_plus      :
   keybase          :
   instagram        :
