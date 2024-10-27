@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael E. Sander"
+  name             : # "Michael E. Sander"
   avatar           : profile.png
   bio              : 
   location         :  
