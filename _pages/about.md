@@ -19,11 +19,11 @@ Contact: michael (dot) sander (at) polytechnique (dot) org
 Publications
 ---
 
-- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. [Preprint](https://arxiv.org/abs/2410.03011).
+- Michael E. Sander, Gabriel Peyré. *Towards Understanding the Universality of Transformers for Next-Token Prediction*. ICLR, 2025. [Paper](https://arxiv.org/abs/2410.03011).
 
 - Michael E. Sander. *Deeper Learning: Residual Networks, Neural Differential Equations and Transformers, in Theory and Action*. [PhD Manuscript](https://michaelsdr.github.io/documents/Manuscript.pdf).
 
-- Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?*. ICML, 2024  [Paper](https://arxiv.org/abs/2402.05787), [GitHub](https://github.com/michaelsdr/ical) 
+- Michael E. Sander, Raja Giryes, Taiji Suzuki, Mathieu Blondel, Gabriel Peyré. *How do Transformers perform In-Context Autoregressive Learning?*. ICML, 2024.  [Paper](https://arxiv.org/abs/2402.05787), [GitHub](https://github.com/michaelsdr/ical) 
 
 - Pierre Marion*, Yu-Han Wu*, Michael E. Sander, Gérard Biau. *Implicit regularization of deep residual networks towards neural ODEs*. ICLR, 2024 (Spotlight). [Paper](https://arxiv.org/abs/2309.01213), [GitHub](https://github.com/michaelsdr/implicit-regularization-resnets-nodes)
 
