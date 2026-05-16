@@ -16,7 +16,7 @@ I graduated from [École Polytechnique](https://www.polytechnique.edu/en) (X2016
 Contact: michael (dot) sander (at) polytechnique (dot) org
 
 
-Publications
+Papers
 ---
 
 - Maxime Guigon, Lucas Dixon, Michaël E. Sander. *A Study on Hidden Layer Distillation for Large Language Model Pre-Training*. Preprint, 2026. [Paper](https://arxiv.org/abs/2605.11513)
