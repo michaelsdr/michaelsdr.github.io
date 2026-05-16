@@ -19,6 +19,10 @@ Contact: michael (dot) sander (at) polytechnique (dot) org
 Publications
 ---
 
+- Maxime Guigon, Lucas Dixon, Michaël E. Sander. *A Study on Hidden Layer Distillation for Large Language Model Pre-Training*. Preprint, 2026. [Paper](https://arxiv.org/abs/2605.11513)
+
+- Quentin Berthet, Yu-Han Wu, Clement Crepy, Romuald Elie, Klaus Greff, Michaël E. Sander. *MIND: Monge Inception Distance for Generative Models Evaluation*. Preprint, 2026. [Paper](https://arxiv.org/abs/2605.06797)
+
 - Lev Fedorov, Michaël E. Sander, Romuald Elie, Pierre Marion, Mathieu Laurière. *Clustering in Deep Stochastic Transformers.* Preprint, 2026. [Paper](https://arxiv.org/abs/2601.21942)￼
 
 - Germain Vivier-Ardisson, Michaël E. Sander, Axel Parmentier, Mathieu Blondel. *Differentiable Knapsack and Top-k Operators via Dynamic Programming.* Preprint, 2026. [Paper](https://arxiv.org/abs/2601.21775)
