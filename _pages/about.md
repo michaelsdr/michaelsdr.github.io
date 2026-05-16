@@ -23,11 +23,11 @@ Publications
 
 - Quentin Berthet, Yu-Han Wu, Clement Crepy, Romuald Elie, Klaus Greff, Michaël E. Sander. *MIND: Monge Inception Distance for Generative Models Evaluation*. Preprint, 2026. [Paper](https://arxiv.org/abs/2605.06797)
 
-- Lev Fedorov, Michaël E. Sander, Romuald Elie, Pierre Marion, Mathieu Laurière. *Clustering in Deep Stochastic Transformers.* Preprint, 2026. [Paper](https://arxiv.org/abs/2601.21942)￼
+- Lev Fedorov, Michaël E. Sander, Romuald Elie, Pierre Marion, Mathieu Laurière. *Clustering in Deep Stochastic Transformers.* ICML, 2026. [Paper](https://arxiv.org/abs/2601.21942)￼
 
 - Germain Vivier-Ardisson, Michaël E. Sander, Axel Parmentier, Mathieu Blondel. *Differentiable Knapsack and Top-k Operators via Dynamic Programming.* Preprint, 2026. [Paper](https://arxiv.org/abs/2601.21775)
 
-- Mathieu Blondel, Michaël E. Sander, Germain Vivier-Ardisson, Tianlin Liu, Vincent Roulet. *Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction.* Preprint, 2025. [Paper](https://arxiv.org/abs/2512.15605)
+- Mathieu Blondel, Michaël E. Sander, Germain Vivier-Ardisson, Tianlin Liu, Vincent Roulet. *Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction.* ICML, 2025. [Paper](https://arxiv.org/abs/2512.15605)
 
 - Michaël E. Sander, Vincent Roulet, Tianlin Liu, Mathieu Blondel. *Joint Learning of Energy-based Models and their Partition Function.* ICML, 2025. [Paper](https://arxiv.org/abs/2501.18528)
 
