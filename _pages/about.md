@@ -41,6 +41,8 @@ Papers
 
 - Pierre Marion*, Yu-Han Wu*, Michaël E. Sander, Gérard Biau. *Implicit regularization of deep residual networks towards neural ODEs*. ICLR, 2024 (Spotlight). [Paper](https://arxiv.org/abs/2309.01213), [GitHub](https://github.com/michaelsdr/implicit-regularization-resnets-nodes)
 
+- Michaël E. Sander, Tom Sander, Maxime Sylvestre. *Unveiling the secrets of paintings: deep neural networks trained on high-resolution multispectral images for accurate attribution and authentication*. Conference on Quality Control by Artificial Vision, 2023. [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12749/1274917/Unveiling-the-secrets-of-paintings--deep-neural-networks-trained/10.1117/12.3000286.short)
+
 - Michaël E. Sander, Joan Puigcerver, Josip Djolonga, Gabriel Peyré, Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.* ICML, 2023. [Paper](https://arxiv.org/abs/2302.01425), [GitHub](https://github.com/google-research/google-research/tree/master/sparse_soft_topk)
 
 - Michaël E. Sander, Pierre Ablin, Gabriel Peyré. *Do Residual Neural Networks discretize Neural Ordinary Differential Equations?* NeurIPS, 2022. [Paper](https://arxiv.org/abs/2205.14612), [GitHub](https://github.com/michaelsdr/resnet_nodes)
