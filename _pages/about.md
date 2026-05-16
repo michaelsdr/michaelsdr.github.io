@@ -29,7 +29,7 @@ Papers
 
 - Mathieu Blondel, Michaël E. Sander, Germain Vivier-Ardisson, Tianlin Liu, Vincent Roulet. *Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction.* ICML, 2025. [Paper](https://arxiv.org/abs/2512.15605)
 
-- Gemini Team. *    Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities.* Preprint, 2025. [Paper](https://arxiv.org/abs/2507.06261)
+- Gemini Team. *Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities.* Preprint, 2025. [Paper](https://arxiv.org/abs/2507.06261)
 
 - Michaël E. Sander, Vincent Roulet, Tianlin Liu, Mathieu Blondel. *Joint Learning of Energy-based Models and their Partition Function.* ICML, 2025. [Paper](https://arxiv.org/abs/2501.18528)
 
