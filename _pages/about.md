@@ -23,9 +23,9 @@ Papers
 
 - Quentin Berthet, Yu-Han Wu, Clement Crepy, Romuald Elie, Klaus Greff, **M.S.**. *MIND: Monge Inception Distance for Generative Models Evaluation*. Preprint, 2026. [Paper](https://arxiv.org/abs/2605.06797)
 
-- Lev Fedorov, **M.S.**, Romuald Elie, Pierre Marion, Mathieu Laurière. *Clustering in Deep Stochastic Transformers.* ICML, 2026. [Paper](https://arxiv.org/abs/2601.21942)￼
-
 - Germain Vivier-Ardisson, **M.S.**, Axel Parmentier, Mathieu Blondel. *Differentiable Knapsack and Top-k Operators via Dynamic Programming.* Preprint, 2026. [Paper](https://arxiv.org/abs/2601.21775)
+
+- Lev Fedorov, **M.S.**, Romuald Elie, Pierre Marion, Mathieu Laurière. *Clustering in Deep Stochastic Transformers.* ICML, 2026. [Paper](https://arxiv.org/abs/2601.21942)￼
 
 - Mathieu Blondel, **M.S.**, Germain Vivier-Ardisson, Tianlin Liu, Vincent Roulet. *Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction.* ICML, 2026. [Paper](https://arxiv.org/abs/2512.15605)
 
