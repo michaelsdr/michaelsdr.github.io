@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [Google DeepMind](https://deepmind.google/).
+I am a Research Scientist at Google DeepMind.
 
 Before that, I obtained my PhD degree at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) (ENS Paris), under the supervision of [Gabriel Peyré](http://www.gpeyre.com/) and [Mathieu Blondel](https://mblondel.org/). 
 
