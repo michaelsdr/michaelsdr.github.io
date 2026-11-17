@@ -19,6 +19,8 @@ Contact: michael (dot) sander (at) polytechnique (dot) org
 Papers
 ---
 
+- Mathieu Blondel, **M.S.**, Germain Vivier-Ardisson, Tianlin Liu, Vincent Roulet. *On the Difficulty of Sequence-Level Supervised Learning for Autoregressive Language Models.* Preprint, 2026. [Paper](https://arxiv.org/abs/2611.16736)
+
 - Maxime Guigon, Lucas Dixon, **M.S.**. *A Study on Hidden Layer Distillation for Large Language Model Pre-Training*. Preprint, 2026. [Paper](https://arxiv.org/abs/2605.11513)
 
 - Quentin Berthet, Yu-Han Wu, Clement Crepy, Romuald Elie, Klaus Greff, **M.S.**. *MIND: Monge Inception Distance for Generative Models Evaluation*. Neurips, 2026. [Paper](https://arxiv.org/abs/2605.06797)
